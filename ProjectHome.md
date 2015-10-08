@@ -1,0 +1,1 @@
+This is a client written as an XBMC script. The client can connect to a deluge host and display the current status of torrents. In the future the client will also implement adding torrents.
